@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chelsea-stech
-- 👀 I’m interested in web development as a whole.
+- 👀 I’m interested in learning web development in order to transition from special education
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
